@@ -199,7 +199,8 @@ This dashboard helps answer questions such as:
 
 ##  Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
+![Power BI Dashboard](./dashboard.png)
+
 
 
 
